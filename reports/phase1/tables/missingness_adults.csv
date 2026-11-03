@@ -1,0 +1,9 @@
+variable,description,n_total,n_missing,pct_missing
+LBXGH,HbA1c (%),6023,293,4.86
+BMXBMI,BMI (kg/m^2),6023,94,1.56
+sleep_hours,Weekly average sleep (h/day),6023,86,1.43
+mvpa_min_week,Leisure-time MVPA (min/week),6023,70,1.16
+sedentary_hours,Sedentary time (h/day),6023,44,0.73
+INDFMPIR,Income-to-poverty ratio,6023,787,13.07
+DMDEDUC2,Education level,6023,4,0.07
+DIQ010,Diagnosed diabetes,6023,0,0.0

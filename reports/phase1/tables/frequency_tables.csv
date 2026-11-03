@@ -1,0 +1,28 @@
+variable,category,n,percent
+sex,Male,2474,45.1
+sex,Female,3016,54.9
+age_group,20-39,1364,24.8
+age_group,40-59,1610,29.3
+age_group,60+,2516,45.8
+race_eth,Non-Hispanic Asian,307,5.6
+race_eth,Non-Hispanic White,3294,60.0
+race_eth,Other Hispanic,555,10.1
+race_eth,Mexican American,369,6.7
+race_eth,Non-Hispanic Black,620,11.3
+race_eth,Other / multiracial,345,6.3
+education,College graduate or above,2026,36.9
+education,High school graduate / GED,1124,20.5
+education,Some college / associate degree,1678,30.6
+education,9th-11th grade,408,7.4
+education,Less than 9th grade,252,4.6
+education,,2,0.0
+diabetes_dx,No,4520,82.3
+diabetes_dx,Yes,768,14.0
+diabetes_dx,Borderline,202,3.7
+bmi_cat,Underweight (<18.5),68,1.2
+bmi_cat,Normal (18.5-24.9),1383,25.2
+bmi_cat,Overweight (25.0-29.9),1788,32.6
+bmi_cat,Obesity (>=30),2251,41.0
+sleep_cat,Short (<7 h),1107,20.2
+sleep_cat,Recommended (7 to <9 h),3252,59.2
+sleep_cat,Long (>=9 h),1131,20.6

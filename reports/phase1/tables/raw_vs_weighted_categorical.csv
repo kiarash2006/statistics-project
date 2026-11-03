@@ -1,0 +1,22 @@
+variable,category,raw_pct,weighted_pct,difference_pp
+sex,Female,54.9,51.0,-3.9
+sex,Male,45.1,49.0,3.9
+age_group,20-39,24.8,34.9,10.1
+age_group,40-59,29.3,34.1,4.8
+age_group,60+,45.8,31.0,-14.9
+race_eth,Mexican American,6.7,7.1,0.4
+race_eth,Non-Hispanic Asian,5.6,6.3,0.7
+race_eth,Non-Hispanic Black,11.3,10.6,-0.7
+race_eth,Non-Hispanic White,60.0,60.6,0.6
+race_eth,Other / multiracial,6.3,5.9,-0.4
+race_eth,Other Hispanic,10.1,9.5,-0.6
+diabetes_dx,Borderline,3.7,3.1,-0.5
+diabetes_dx,No,82.3,85.3,3.0
+diabetes_dx,Yes,14.0,11.5,-2.5
+bmi_cat,Underweight (<18.5),1.2,1.4,0.2
+bmi_cat,Normal (18.5-24.9),25.2,25.7,0.5
+bmi_cat,Overweight (25.0-29.9),32.6,32.7,0.1
+bmi_cat,Obesity (>=30),41.0,40.2,-0.8
+sleep_cat,Short (<7 h),20.2,19.3,-0.9
+sleep_cat,Recommended (7 to <9 h),59.2,61.5,2.2
+sleep_cat,Long (>=9 h),20.6,19.2,-1.4

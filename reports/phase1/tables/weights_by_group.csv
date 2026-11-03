@@ -1,0 +1,12 @@
+variable,group,n,mean_weight,population_millions,pct_of_sample,pct_of_population
+age_group,20-39,1364,59688.0,81.4,24.8,34.9
+age_group,40-59,1610,49361.0,79.5,29.3,34.1
+age_group,60+,2516,28676.0,72.1,45.8,31.0
+race_eth,Mexican American,369,45057.0,16.6,6.7,7.1
+race_eth,Non-Hispanic Asian,307,47555.0,14.6,5.6,6.3
+race_eth,Non-Hispanic Black,620,39742.0,24.6,11.3,10.6
+race_eth,Non-Hispanic White,3294,42875.0,141.2,60.0,60.6
+race_eth,Other / multiracial,345,39948.0,13.8,6.3,5.9
+race_eth,Other Hispanic,555,39923.0,22.2,10.1,9.5
+sex,Female,3016,39406.0,118.8,54.9,51.0
+sex,Male,2474,46154.0,114.2,45.1,49.0

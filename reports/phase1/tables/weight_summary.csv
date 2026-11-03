@@ -1,0 +1,3 @@
+weight,n,min,median,max,max_to_min_ratio,sum_millions,cv,kish_design_effect,effective_n
+WTPH2YR,5490,4391.82,33515.62,241728.86,55.04,233.03,0.74,1.55,3552.45
+WTMEC2YR,5490,4581.6,32036.35,227108.3,49.57,222.6,0.73,1.53,3598.15

@@ -1,0 +1,12 @@
+check,n_flagged
+Duplicate SEQN in adult file,0
+HbA1c outside 3-18 % (analytic sample),0
+BMI outside 10-80 kg/m^2 (analytic sample),0
+Sleep < 3 h or > 12 h per day (analytic sample),63
+Sedentary time = 0 min (analytic sample),3
+Sedentary time >= 18 h (CAPI soft-edit threshold),22
+MVPA > 2520 min/week (avg > 6 h/day),48
+"MVPA > 10080 min/week (impossible, > 24 h/day)",0
+Moderate frequency > 0 but unit missing (adults),0
+Vigorous frequency > 0 but unit missing (adults),0
+Moderate frequency = 0 but minutes reported (adults),0

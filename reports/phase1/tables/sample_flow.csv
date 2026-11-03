@@ -1,0 +1,10 @@
+step,n_remaining,n_removed
+All NHANES 2021-2023 participants (DEMO_L),11933,0
+Age >= 20 years,7809,4124
+Examined in the MEC (RIDSTATR == 2),6064,1745
+Not pregnant (RIDEXPRG != 1),6023,41
+HbA1c available with phlebotomy weight > 0,5730,293
+BMI available,5649,81
+Weekly sleep duration available,5571,78
+Leisure-time MVPA available,5514,57
+Sedentary time available,5490,24
