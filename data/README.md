@@ -5,7 +5,7 @@
 NHANES August 2021–August 2023, National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC).
 
 - Cycle page: https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2021-2023
-- Date downloaded: [11/1/2026]
+- Date downloaded: [2026-11-01]
 
 ## Files
 

@@ -28,7 +28,7 @@ TABLES_DIR = PROJECT_ROOT / "reports" / "phase1" / "tables"
 FIG_DIR = PROJECT_ROOT / "figures" / "phase1"
 OUT_PATH = PROJECT_ROOT / "reports" / "phase1" / "phase1_report.pdf"
 
-AUTHOR_LINE = "[Kiarash Hajizadeh]"  # <- edit before submission
+AUTHOR_LINE = "[Kiarash Hajizadeh 403170128]"
 
 # ----------------------------------------------------------------------------- styles
 base = getSampleStyleSheet()
