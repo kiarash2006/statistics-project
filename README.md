@@ -3,6 +3,12 @@
 Course project for the Statistics course (Fall 1405), Track A.
 See PROJECT_CARD.md for the statistical question and design, and data/README.md for data sources.
 
+## Repositories
+
+- GitHub : https://github.com/kiarash2006/statistics-project.git
+- Hamgit : https://hamgit.ir/kiarash.hajizadeh.06/statistics.git
+
+
 ## Repository structure
 
 - PROJECT_CARD.md: statistical framework of the project

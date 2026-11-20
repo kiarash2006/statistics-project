@@ -1,5 +1,10 @@
 # Project Card
 
+## Repositories:
+
+- GitHub : https://github.com/kiarash2006/statistics-project.git
+- Hamgit : https://hamgit.ir/kiarash.hajizadeh.06/statistics.git
+
 ## 1. Dataset and subset
 
 - Track: A (NHANES August 2021–August 2023, National Center for Health Statistics, CDC).
