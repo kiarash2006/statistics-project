@@ -1,0 +1,6 @@
+random_variable,unit,expectation,variance,sd,expectation_weighted,variance_weighted
+I_B = 1 if HbA1c >= 6.5% (Bernoulli),probability,0.1242,0.1088,0.3299,0.1044,0.0935
+K = number of I_B = 1 in 90 random adults (Binomial),adults,11.1803,9.7914,3.1291,9.4003,8.4185
+HbA1c,%,5.7832,1.191,1.0913,5.7067,1.1906
+BMI,kg/m^2,29.8296,52.8539,7.2701,29.6955,52.5668
+Sleep,h/day,7.8529,2.1528,1.4673,7.8643,1.9924

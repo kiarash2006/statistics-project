@@ -1,0 +1,7 @@
+x,y,covariance,unit,direction
+BMXBMI,LBXGH,1.6101,kg/m^2 x %,positive
+sleep_hours,LBXGH,0.0437,h/day x %,positive
+mvpa_min_week,LBXGH,-23.9052,min/week x %,negative
+sedentary_hours,LBXGH,-0.0489,h/day x %,negative
+sleep_hours,BMXBMI,-0.3971,h/day x kg/m^2,negative
+mvpa_min_week,BMXBMI,-349.5636,min/week x kg/m^2,negative

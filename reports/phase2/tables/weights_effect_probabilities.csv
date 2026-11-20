@@ -1,0 +1,8 @@
+quantity,unweighted,weighted
+P(B) overall,0.1242,0.1044
+P(B | age 20-39),0.0286,0.03
+P(B | age 40-59),0.1267,0.1181
+P(B | age 60+),0.1745,0.1734
+P(B | short sleep),0.1382,0.1192
+P(short sleep),0.2016,0.1929
+P(B) standardized to the weighted age distribution,0.1072,0.1044

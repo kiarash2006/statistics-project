@@ -1,0 +1,10 @@
+given,n,p_b_given_unweighted,ratio_to_overall,p_b_given_weighted,ratio_to_overall_weighted
+short sleep (<7 h),1107,0.1382,1.1126,0.1192,1.1411
+recommended sleep (7 to <9 h),3252,0.1021,0.8218,0.0876,0.8386
+long sleep (>=9 h),1131,0.1742,1.4021,0.1435,1.3742
+no leisure-time activity,1008,0.2173,1.7489,0.1884,1.8042
+some leisure-time activity,4482,0.1033,0.8316,0.088,0.8426
+obesity (BMI >= 30),2251,0.1959,1.5771,0.1757,1.6821
+no obesity (BMI < 30),3239,0.0744,0.599,0.0566,0.5416
+age >= 60,2516,0.1745,1.4046,0.1734,1.6602
+age < 60,2974,0.0817,0.6577,0.0735,0.7039

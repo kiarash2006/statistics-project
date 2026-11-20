@@ -1,0 +1,8 @@
+event,definition,n_events,p_unweighted,p_weighted
+high_hba1c,HbA1c >= 6.5 % (diabetes-range value),682,0.1242,0.1044
+short_sleep,Average sleep < 7 hours per day,1107,0.2016,0.1929
+long_sleep,Average sleep >= 9 hours per day,1131,0.206,0.1924
+inactive,No leisure-time moderate or vigorous activity (0 min/week),1008,0.1836,0.1637
+obesity,BMI >= 30 kg/m^2,2251,0.41,0.4019
+age_60plus,Age >= 60 years,2516,0.4583,0.3096
+diabetes_dx,Self-reported diagnosed diabetes (DIQ010 = 1),768,0.1399,0.1152

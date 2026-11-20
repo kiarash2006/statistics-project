@@ -1,0 +1,23 @@
+variable,group,n,n_events,p_unweighted,p_weighted,diff_from_overall_pp
+sex,Female,3016,333,0.1104,0.0927,-1.3815
+sex,Male,2474,349,0.1411,0.1166,1.6841
+age_group,20-39,1364,39,0.0286,0.03,-9.5633
+age_group,40-59,1610,204,0.1267,0.1181,0.2482
+age_group,60+,2516,439,0.1745,0.1734,5.0257
+race_eth,Mexican American,369,67,0.1816,0.1444,5.7346
+race_eth,Non-Hispanic Asian,307,35,0.114,0.077,-1.0219
+race_eth,Non-Hispanic Black,620,105,0.1694,0.1569,4.5129
+race_eth,Non-Hispanic White,3294,351,0.1066,0.0923,-1.7668
+race_eth,Other / multiracial,345,52,0.1507,0.1313,2.6499
+race_eth,Other Hispanic,555,72,0.1297,0.0948,0.5504
+bmi_cat,Underweight (<18.5),68,3,0.0441,0.0207,-8.0108
+bmi_cat,Normal (18.5-24.9),1383,73,0.0528,0.0397,-7.1442
+bmi_cat,Overweight (25.0-29.9),1788,165,0.0923,0.0715,-3.1944
+bmi_cat,Obesity (>=30),2251,441,0.1959,0.1757,7.1687
+sleep_cat,Short (<7 h),1107,153,0.1382,0.1192,1.3986
+sleep_cat,Recommended (7 to <9 h),3252,332,0.1021,0.0876,-2.2135
+sleep_cat,Long (>=9 h),1131,197,0.1742,0.1435,4.9956
+mvpa_cat,None (0 min),1008,219,0.2173,0.1884,9.3036
+mvpa_cat,Some (<150 min),1740,219,0.1259,0.1041,0.1636
+mvpa_cat,150 to <300 min,1099,105,0.0955,0.0817,-2.8684
+mvpa_cat,300+ min,1643,139,0.0846,0.0755,-3.9625

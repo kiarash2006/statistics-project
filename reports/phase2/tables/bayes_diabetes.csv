@@ -1,0 +1,3 @@
+version,n,P(D) prior,P(B|D),P(B|not D),P(B) total probability,P(D|B) by Bayes,P(D|B) direct,"P(not D|B), i.e. high HbA1c without diagnosis"
+unweighted,5288,0.1452,0.6953,0.025,0.1224,0.8253,0.8253,0.1747
+weighted,5288,0.119,0.7044,0.0209,0.1022,0.8199,0.8199,0.1801

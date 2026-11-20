@@ -1,0 +1,7 @@
+cell,n,joint_probability,expected_if_independent
+A and B,153,0.0279,0.025
+A and not B,954,0.1738,0.1766
+not A and B,529,0.0964,0.0992
+not A and not B,3854,0.702,0.6992
+P(A) marginal,1107,0.2016,
+P(B) marginal,682,0.1242,
